@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cabram5407
 - 👀 I’m interested in exercise and reading
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on learning Python and SQL
+- 🌱 I’m currently learning Python and I hope to become a QA Engineer
 - 📫 How to reach me cabram1967@comcast.net
 - 😄 Pronouns: she and her
 - ⚡ Fun fact: I laugh when I'm nervous.
