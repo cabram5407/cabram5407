@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cabram5407
 - 👀 I’m interested in exercise and reading
-- 🌱 I’m currently learning Python and I hope to become a QA Engineer
+- 🌱 I’m currently learning Python and I hope to become a QA Automation Engineer
 - 📫 How to reach me cabram1967@comcast.net
 - 😄 Pronouns: she and her
 - ⚡ Fun fact: I laugh when I'm nervous.
